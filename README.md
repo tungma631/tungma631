@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Tung! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>🚀 Aspiring AI Engineer | Business Owner at <b>TSoft</b>
+<p><em>🚀 Aspiring AI Engineer | Business Owner at <b>Tùng Anh Ninh Hiệp</b> 👔
 </em></p>
 
 [![Facebook Contact](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ma.van.tung.204421)
