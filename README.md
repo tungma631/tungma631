@@ -42,38 +42,28 @@ const tung = {
   achievements: "4th Prize - National Science & Tech Competition (Smart Incinerator Project)",
   funFact: "I solve most of my bugs with a cup of coffee and a clean commit history."
 };
-🛠️ Skills & Tools
-Core Languages: Proficient in Python, Java, and C. High-level experience in JavaScript/TypeScript for automation.
+---
 
-AI Focus: Studying Computer Architecture, Machine Learning, and Computer Vision fundamentals.
+### 🛠️ Skills & Tools
 
-Automation: Specialized in building high-performance Zalo/Facebook automation tools and web scrapers.
+* **💻 Core Languages:** Proficient in **Python**, **Java**, and **C**. High-level experience in **JavaScript/TypeScript**.
+* **🧠 AI Focus:** Studying **Computer Architecture**, **Machine Learning**, and **Computer Vision** fundamentals.
+* **⚙️ Automation:** Specialized in building high-performance **Zalo/Facebook automation tools** and web scrapers.
+* **☁️ Infrastructure:** Experienced in managing **VMware environments**, **Docker**, and **Windows Server** configurations.
 
-Infrastructure: Experienced in managing VMware environments, Docker, and Windows Server configurations.
+---
 
-📊 GitHub Statistics
+### 📊 GitHub Statistics
+
 <p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtungma631%26show_icons%3Dtrue%26theme%3Dtokyonight" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtungma631%26layout%3Dcompact%26theme%3Dtokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tungma631&show_icons=true&theme=tokyonight" alt="Tung's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungma631&layout=compact&theme=tokyonight" alt="Tung's Top Languages" />
 </p>
 
-I'm a Night Owl 🦉 ```text
-🌞 Morning      ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-🌆 Daytime      ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   20.00 %
-🌃 Evening      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   40.00 %
-🌙 Night        ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.00 %
-
----
-
-### 📫 Connect with me
-
-I'm always looking for opportunities to collaborate on AI projects or automation workflows. Let's build something great together!
-
-* **Email:** [tungma631@gmail.com](mailto:tungma631@gmail.com)
-* **Zalo:** [0928822756](https://zalo.me/0928822756)
-* **Facebook:** [Tùng Văn Mã](https://www.facebook.com/ma.van.tung.204421)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting new people.</b> Feel free to reach out and say hi! 😊</em>
-
----
-*Last Updated: 2026*
+#### 🦉 Coding Activity
+```text
+🌞 Morning      ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime      ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌃 Evening      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   40.00 % 
+🌙 Night        ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.00 % 
+📫 Connect with meI'm always looking for opportunities to collaborate on AI projects or automation workflows. Let's build something great together!ChannelContact Info📧 Emailtungma631@gmail.com💬 Zalo0928822756👤 FacebookTùng Văn Mã<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love meeting new people.</b> Feel free to reach out and say hi! 😊</em></p><p align="right"><i>Last Updated: 2026</i></p>
