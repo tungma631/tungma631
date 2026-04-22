@@ -1,215 +1,79 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Tung 🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Tung! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>🚀 Aspiring AI Engineer | Business Owner at <b>Tùng Anh Ninh Hiệp</b> 👔
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+[![Facebook Contact](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ma.van.tung.204421)
+[![Zalo Contact](https://img.shields.io/badge/Zalo-0068FF?style=flat-square&logo=Zalo&logoColor=white)](https://zalo.me/0928822756)
+[![Email Contact](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tungma631@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/tungma631?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=tungma631.tungma631)
 
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/tungma631/tungma631)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
+const tung = {
+  name: "Tung",
+  born: 2005,
   pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+  dream: "AI Engineer",
+  languages: ["Python", "Java", "C", "JavaScript", "TypeScript"],
+  
   askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
+    "Computer Vision & AI",
+    "Process Automation (Zalo/Facebook)",
+    "Full-stack Development",
+    "Server & Infrastructure Administration"
   ],
 
   technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
+    programming: ["Python (Primary)", "Java", "C", "Node.js"],
+    automation: ["Playwright", "Selenium", "API Integration"],
+    cloudAndDevOps: ["Docker", "VMware", "Windows Server", "Nginx"],
+    tools: ["WebStorm", "VS Code", "Git"]
   },
 
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
+  projects: [
+    "Zalo Forwarding Pro (Real-time message & image sync)",
+    "ShopBase Auto-Collection (Automation scripts for E-commerce)",
+    "Personal Expense Tracker (Mobile App)"
+  ],
+
+  achievements: "4th Prize - National Science & Tech Competition (Smart Incinerator Project)",
+  funFact: "I solve most of my bugs with a cup of coffee and a clean commit history."
 };
-```
+🛠️ Skills & Tools
+Core Languages: Proficient in Python, Java, and C. High-level experience in JavaScript/TypeScript for automation.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+AI Focus: Studying Computer Architecture, Machine Learning, and Computer Vision fundamentals.
+
+Automation: Specialized in building high-performance Zalo/Facebook automation tools and web scrapers.
+
+Infrastructure: Experienced in managing VMware environments, Docker, and Windows Server configurations.
+
+📊 GitHub Statistics
+<p align="center">
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtungma631%26show_icons%3Dtrue%26theme%3Dtokyonight" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtungma631%26layout%3Dcompact%26theme%3Dtokyonight" />
+</p>
+
+I'm a Night Owl 🦉 ```text
+🌞 Morning      ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+🌆 Daytime      ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   20.00 %
+🌃 Evening      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   40.00 %
+🌙 Night        ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.00 %
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C316%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-701-blue?style=flat)
+### 📫 Connect with me
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.32%20million%20lines%20of%20code-blue?style=flat)
+I'm always looking for opportunities to collaborate on AI projects or automation workflows. Let's build something great together!
 
-**🐱 My GitHub Data** 
+* **Email:** [tungma631@gmail.com](mailto:tungma631@gmail.com)
+* **Zalo:** [0928822756](https://zalo.me/0928822756)
+* **Facebook:** [Tùng Văn Mã](https://www.facebook.com/ma.van.tung.204421)
 
-> 📦 390.9 kB Used in GitHub's Storage 
- > 
-> 🏆 384 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm a Night 🦉** 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting new people.</b> Feel free to reach out and say hi! 😊</em>
 
-```text
-🌞 Morning                214 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-🌆 Daytime                482 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 Evening                512 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-🌙 Night                  253 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   51 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Tuesday                  32 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                30 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Thursday                 81 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   68 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 13 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Sunday                   78 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/HCM
-
-💬 Programming Languages: 
-Python               14 hrs 19 mins      ██████████████████████░░░   86.02 % 
-C                        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-🔥 Editors: 
-WebStorm                 16 hrs 33 mins      █████████████████████████   99.49 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-
-💻 Operating System: 
-Mac                      16 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-
-
-
- Last Updated on 22/04/2026 01:07:09 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+---
+*Last Updated: 2026*
