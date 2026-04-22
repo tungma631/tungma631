@@ -1,28 +1,39 @@
-## <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)" width="30"/> Hi there, I'm Tung! <img src="[https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif](https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif)" width="50"></h2>
-<img align='right' src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif)" width="230">
-<p><em>🚀 Aspiring AI Engineer | Owner at <b>Tùng Anh Ninh Hiệp</b> 👔
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Chào bạn (Hello)🙏🏻, I'm Tung! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Dream: AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Facebook Contact](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ma.van.tung.204421)
-[![Zalo Contact](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=Zalo&logoColor=white)](https://zalo.me/0928822756)
-[![Email Contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tungma631@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ma.van.tung.204421)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tungma631@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/tungma631?label=Follow&style=social)
+[![Zalo](https://img.shields.io/badge/Zalo-0928822756-blue?style=flat-square)](#)
+![](https://visitor-badge.glitch.me/badge?page_id=tungma631.tungma631)
+![Waka Readme](https://github.com/tungma631/tungma631/workflows/Waka%20Readme/badge.svg)
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif)" width="50"> About Me
+### 📫 Like to meet me?
 
-I am a tech-driven entrepreneur born in 2005. While managing my wholesale clothing business, I spend my nights diving deep into AI, automation, and software architecture. My goal is to bridge the gap between business operations and cutting-edge technology.
+Reach out to me via Email or Zalo!
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const tung = {
   name: "Tung",
   dream: "AI Engineer",
-  languages: ["Python", "Java", "C", "JS/TS"],
-  projects: ["Zalo Forwarding Pro", "Auto ShopBase", "Expense Manager"],
-  achievements: "4th Prize - National Science & Tech Competition 2025",
-  funFact: "I debug better after a strong coffee ☕"
+  languages: ["Python", "Java", "C"],
+  contact: {
+    facebook: "https://www.facebook.com/ma.van.tung.204421",
+    zalo: "0928822756",
+    email: "tungma631@gmail.com"
+  },
+  funFact: "Most bugs disappear after a coffee and a clean commit history"
 };
-🛠️ Skills & Tools💻 Programming: Proficient in Python, Java, and C. Experienced in JavaScript/TypeScript for automation.🧠 AI & Vision: Focusing on Computer Architecture, Machine Learning, and Computer Vision (OpenCV).⚙️ Automation: Expert in building high-performance Zalo/Facebook automation bots and web scrapers.☁️ Infrastructure: Hands-on with Docker, VMware, Nginx, and Windows Server.📊 GitHub Statistics<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=tungma631&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungma631&layout=compact&theme=tokyonight" alt="Top Languages" /></p>🦉 Coding ActivityPlaintext🌞 Morning      ▓▓░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime      ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌃 Evening      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   40.00 % 
-🌙 Night        ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.00 % 
-📫 Let's Connect!I'm always open to discussing AI, Automation, or SaaS development.ChannelContact Info📧 Emailtungma631@gmail.com💬 Zalo0928822756👤 FacebookTùng Văn Mã<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>"Coding the future, one script at a time."</b></em></p><p align="right"><i>Last Updated: 2026</i></p>
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
